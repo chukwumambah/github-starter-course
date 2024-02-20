@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-Charles was here. He edited this file in Vscode
+Charles was here. He edited this file in Vscode. Yeah!
 
 ## 🤓 Course overview and learning outcomes 
 
